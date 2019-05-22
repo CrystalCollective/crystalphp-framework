@@ -1,7 +1,7 @@
 {
   "name": "crystalcollective/crystalphp",
   "description": "CrystalPHP Framework for PHP",
-  "type": "framework, library",
+  "type": "framework",
   "license": "MIT",
   "authors": [
     {
